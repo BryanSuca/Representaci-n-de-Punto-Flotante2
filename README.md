@@ -1,4 +1,6 @@
 # Representacin-de-Punto-Flotante
-Para 32 bits 
+Float 32 bits 
 
-Para 64 bits
+Double 64 bits
+
+Conversion de Float a Double
